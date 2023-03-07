@@ -1,0 +1,20 @@
+{
+  "name": "que-son-los-clousures-scope-y-hoisting",
+  "version": "1.0.0",
+  "description": "Diferencias Scope global function(local) y block, que son los closures? explicacion HOISTING",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RamsesGV/Que-son-los-Clousures-Scope-y-Hoisting.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RamsesGV/Que-son-los-Clousures-Scope-y-Hoisting/issues"
+  },
+  "homepage": "https://github.com/RamsesGV/Que-son-los-Clousures-Scope-y-Hoisting#readme"
+}
